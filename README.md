@@ -1,5 +1,12 @@
 # UnderinvestmentMisallocation
-Replication code
+Replication code for "Underinvestment and Misallocation Under Sovereign Risk" by Carlos Esquivel
+January, 2022:
+https://cesquivelal.github.io/Esquivel_UninvMiss.pdf
+
+The code is written in the Julia language, version 1.7.2 and uses the following packages:
+      Distributed, Parameters, Interpolations, Optim, SharedArrays, DelimitedFiles,
+      Distributions, FastGaussQuadrature, LinearAlgebra, Random, Statistics,
+      SparseArrays, QuadGK, Sobol, Roots, NLsolve, Plots
 
 The file Primitives.jl defines all objects and functions that are used to solve and simulate the model.
 
