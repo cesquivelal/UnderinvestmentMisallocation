@@ -1,7 +1,7 @@
 # UnderinvestmentMisallocation
 Replication code for "Underinvestment and Misallocation Under Sovereign Risk" by Carlos Esquivel
 
-January, 2022:
+September, 2024:
 
 https://cesquivelal.github.io/Esquivel_UninvMiss.pdf
 
